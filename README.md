@@ -2,6 +2,8 @@
 
 Watches the garlicoind daemon and waits for the balance to change, then notifies you using libnotify if there are any changes.
 
+If you like this and want to donate, here is my garlicoin address `GKdogWR6EKBbKAG7oZwfCrXojgGvuuGU8d`
+
 ## Installation
 
 You will need the crystal compiler installed to build this. You can find directions on installing it from [here](https://crystal-lang.org/docs/installation/)
