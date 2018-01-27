@@ -1,0 +1,20 @@
+name: grlc-wallet-watcher
+version: 0.1.0
+
+authors:
+  - Chris Watson <chris@watzon.me>
+
+targets:
+  wallet-watcher:
+    main: src/wallet-watcher.cr
+
+crystal: 0.24.1
+
+dependencies:
+  libnotify:
+    github: splattael/libnotify.cr
+    version: ~> 0.2.0
+  garlicoin:
+    github: watzon/garlicoin.cr
+
+license: MIT

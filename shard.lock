@@ -1,0 +1,18 @@
+version: 1.0
+shards:
+  cute:
+    github: Papierkorb/cute
+    version: 0.3.1
+
+  garlicoin:
+    github: watzon/garlicoin.cr
+    commit: 958e0b5a0e76b92b81671971068221692b58a4f4
+
+  json_rpc:
+    github: Papierkorb/json_rpc
+    commit: 5b4bda74baaf6669d4bcf90f39c1a96c19d761e7
+
+  libnotify:
+    github: splattael/libnotify.cr
+    version: 0.2.0
+
