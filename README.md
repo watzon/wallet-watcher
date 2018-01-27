@@ -12,6 +12,8 @@ Move the binary wherever you want and run it with `./wallet-watcher` or if it's 
 
 If it's not working make sure `garlicoind` is running.
 
+![screenshot](https://i.imgur.com/dJPUkDp.jpg)
+
 ## Contributing
 
 1. Fork it ( https://github.com/watzon/grlc-wallet-watcher/fork )
