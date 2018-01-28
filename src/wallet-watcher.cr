@@ -5,7 +5,7 @@ require "./wallet-watcher/*"
 
 class WalletWatcher
 
-  SLEEP_TIME = 10
+  SLEEP_TIME = 40
   ICON_PATH = File.join(ENV["HOME"], ".garlicoin/garlicoin.svg")
 
   @config : Garlicoin::Config

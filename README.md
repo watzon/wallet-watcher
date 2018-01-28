@@ -10,7 +10,7 @@ You will need the crystal compiler installed to build this. You can find directi
 
 Clone this repo with `git clone https://github.com/watzon/wallet-watcher.git` and cd into the wallet-watcher directory.
 Build the client with `shards build` or with `crystal build ./src/wallet-watcher.cr`.
-Move the binary wherever you want and run it with `./wallet-watcher` or if it's in your path `wallet-watcher`. If you want to run it in the background do `wallet-watcher &`.
+Move the binary wherever you want and run it with `./wallet-watcher` or if it's in your path `wallet-watcher`. If you want to run it in the background do `wallet-watcher > /dev/null &`.
 
 If it's not working make sure `garlicoind` is running.
 
